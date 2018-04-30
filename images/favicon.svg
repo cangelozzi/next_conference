@@ -1,0 +1,29 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120.77 129">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="160.56" y1="239.5" x2="235.44" y2="239.5" gradientTransform="matrix(-1, 0, 0, 1, 280.38, -175)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.02" stop-color="#ffbe10"/>
+      <stop offset="0.32" stop-color="#e8630c"/>
+      <stop offset="0.51" stop-color="red"/>
+      <stop offset="0.79" stop-color="#bc0ce8"/>
+      <stop offset="1" stop-color="#1f11ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.95" y1="64.5" x2="75.82" y2="64.5" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>favicon</title>
+  <polygon id="logo_gradient_X" data-name="logo_gradient X" class="cls-1" points="119.82 0.5 87.99 0.5 44.95 64.5 87.4 128.5 119.82 128.5 76.19 64.5 119.82 0.5"/>
+  <polygon id="logo_gradient_X-2" data-name="logo_gradient X" class="cls-2" points="0.95 0.5 32.78 0.5 75.82 64.5 33.37 128.5 0.95 128.5 44.58 64.5 0.95 0.5"/>
+</svg>
